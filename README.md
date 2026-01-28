@@ -63,8 +63,8 @@ enjoys strategy-based problem solving
 
 ┌──(vritti㉿github)-[~]
 └─$ echo "connect"
-tryhackme  -> https://tryhackme.com/p/vritti.garg
-linkedin   -> https://www.linkedin.com/in/vritti-garg-682667284/
+tryhackme  -> https://tryhackme.com/p/vritti.garg/
+linkedin   -> https://www.linkedin.com/in/vrittigarg/
 
 ┌──(vritti㉿github)-[~]
 └─$ echo "Always learning. Always improving."
