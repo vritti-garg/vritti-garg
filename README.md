@@ -69,5 +69,7 @@ linkedin   -> https://www.linkedin.com/in/vritti-garg-682667284/
 
 ┌──(vritti㉿github)-[~]
 └─$ echo "Always learning. Always improving."
+```
+```
 <p align="left"> <img src="https://raw.githubusercontent.com/blackmatrix7/blackmatrix7/main/cursor.gif" width="14px" /> </p>
 ```
