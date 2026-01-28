@@ -1,66 +1,73 @@
 <h2>Hi, I'm Vritti!</h2> 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  
+
 </div>
 
-<h3>🌟!! Insert Snack to Continue 🍕...</h3>
-
 ```
-vritti@github:~$ whoami
+┌──(vritti㉿github)-[~]
+└─$ whoami
 vritti
 
-vritti@github:~$ cat about.txt
-Learning cybersecurity through hands-on practice,
-CTFs, and real-world incident analysis.
-Focus on understanding fundamentals before tools.
+┌──(vritti㉿github)-[~]
+└─$ cat about.txt
+learning cybersecurity through hands-on practice,
+ctfs, and real-world incident analysis.
+focus on fundamentals before tools.
 
-vritti@github:~$ ls focus_areas/
-cybersecurity_fundamentals/
-ctfs_tryhackme/
-digital_forensics/
-phishing_incident_analysis/
+┌──(vritti㉿github)-[~]
+└─$ ls focus/
+cybersecurity_fundamentals
+ctfs_tryhackme
+digital_forensics
+phishing_incident_analysis
 
-vritti@github:~$ cd skills && tree
-.
-├── languages
-│   ├── C
-│   └── Python
-├── cybersecurity
-│   ├── Windows_Forensics
-│   ├── Digital_Forensics
-│   ├── OSINT_basics
-│   ├── Log_Analysis
-│   └── CTF_Problem_Solving
-└── tools_platforms
-    ├── TryHackMe
-    ├── Linux
-    ├── Autopsy
-    ├── FTK_Imager
-    ├── Wireshark
-    ├── Splunk
-    ├── Nessus
-    └── Git_GitHub
+┌──(vritti㉿github)-[~]
+└─$ cat skills.txt
+languages:
+  - c
+  - python
 
-vritti@github:~$ cat experience.log
-[INFO] Delivered multiple technical sessions to 150+ students
-[INFO] Co-organized cybersecurity workshops and CTFs
-[INFO] Co-led Design & Marketing team for CRACCON'25
-[INFO] Managed and created digital content for conference outreach
+cybersecurity:
+  - windows forensics
+  - digital forensics
+  - osint (basics)
+  - log & incident analysis
+  - ctf problem-solving
 
-vritti@github:~$ cat approach.md
-- Prioritize fundamentals over tools
-- Learn through labs, case analysis, and hands-on practice
-- Prefer clarity over complexity
+tools:
+  - linux
+  - wireshark
+  - splunk
+  - autopsy
+  - ftk imager
+  - git & github
 
-vritti@github:~$ cat creative_side.txt
-Managing and creating content for Sarika Arts
-Interested in design and visual storytelling
-Enjoys strategy-based problem solving
+┌──(vritti㉿github)-[~]
+└─$ cat experience.log
+[+] delivered technical sessions to 150+ students
+[+] co-organized cybersecurity workshops & ctfs
+[+] co-led design & marketing for CRACCON'25
+[+] managed and created digital content for outreach
 
-vritti@github:~$ echo "Find me here 👇"
-TryHackMe  : https://tryhackme.com/p/YOUR_THM_USERNAME
-LinkedIn   : https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+┌──(vritti㉿github)-[~]
+└─$ cat approach.md
+- fundamentals first
+- learn by doing, not memorizing
+- clarity > complexity
 
-vritti@github:~$ _
+┌──(vritti㉿github)-[~]
+└─$ cat creative.txt
+managing and creating content for sarika arts
+interested in design and visual storytelling
+enjoys strategy-based problem solving
+
+┌──(vritti㉿github)-[~]
+└─$ echo "connect"
+tryhackme  -> https://tryhackme.com/p/vritti.garg
+linkedin   -> https://www.linkedin.com/in/vritti-garg-682667284/
+
+┌──(vritti㉿github)-[~]
+└─$ echo "Always learning. Always improving."
+<p align="left"> <img src="https://raw.githubusercontent.com/blackmatrix7/blackmatrix7/main/cursor.gif" width="14px" /> </p>
 ```
