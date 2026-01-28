@@ -1,31 +1,66 @@
-<h2>Hi, I’m Vritti 👋</h2>
+<h2>Hi, I'm Vritti!</h2> 
 
-<p>
-I’m a cybersecurity enthusiast learning security the hands-on way — through
-CTFs, labs, and real-world incident analysis.
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+</div>
 
-<p>
-I care more about <b>understanding how things work</b> than collecting tools.
-</p>
+<h3>🌟!! Insert Snack to Continue 🍕...</h3>
 
-<p>
-Currently spending most of my time on:
-</p>
+```
+vritti@github:~$ whoami
+vritti
 
-<ul>
-  <li>🛡️ Digital & Windows Forensics</li>
-  <li>🧩 CTFs and lab-based learning (TryHackMe)</li>
-  <li>📧 Phishing and incident analysis</li>
-</ul>
+vritti@github:~$ cat about.txt
+Learning cybersecurity through hands-on practice,
+CTFs, and real-world incident analysis.
+Focus on understanding fundamentals before tools.
 
-<p>
-Outside tech, I help with managing and creating content for <b>Sarika Arts</b>
-and enjoy thinking through problems step-by-step.
-</p>
-<p>
-<a href="https://tryhackme.com/p/vritti.garg">TryHackMe</a> ·
-<a href="https://www.linkedin.com/in/vritti-garg-682667284/">LinkedIn</a>
-</p>
+vritti@github:~$ ls focus_areas/
+cybersecurity_fundamentals/
+ctfs_tryhackme/
+digital_forensics/
+phishing_incident_analysis/
 
-<p><i>Learning in public, slowly and honestly.</i></p>
+vritti@github:~$ cd skills && tree
+.
+├── languages
+│   ├── C
+│   └── Python
+├── cybersecurity
+│   ├── Windows_Forensics
+│   ├── Digital_Forensics
+│   ├── OSINT_basics
+│   ├── Log_Analysis
+│   └── CTF_Problem_Solving
+└── tools_platforms
+    ├── TryHackMe
+    ├── Linux
+    ├── Autopsy
+    ├── FTK_Imager
+    ├── Wireshark
+    ├── Splunk
+    ├── Nessus
+    └── Git_GitHub
+
+vritti@github:~$ cat experience.log
+[INFO] Delivered multiple technical sessions to 150+ students
+[INFO] Co-organized cybersecurity workshops and CTFs
+[INFO] Co-led Design & Marketing team for CRACCON'25
+[INFO] Managed and created digital content for conference outreach
+
+vritti@github:~$ cat approach.md
+- Prioritize fundamentals over tools
+- Learn through labs, case analysis, and hands-on practice
+- Prefer clarity over complexity
+
+vritti@github:~$ cat creative_side.txt
+Managing and creating content for Sarika Arts
+Interested in design and visual storytelling
+Enjoys strategy-based problem solving
+
+vritti@github:~$ echo "Find me here 👇"
+TryHackMe  : https://tryhackme.com/p/YOUR_THM_USERNAME
+LinkedIn   : https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+vritti@github:~$ _
+```
