@@ -1,7 +1,6 @@
 <h2>Hi, I'm Vritti!</h2> 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-
 </div>
 
 ```
@@ -70,6 +69,9 @@ linkedin   -> https://www.linkedin.com/in/vritti-garg-682667284/
 ┌──(vritti㉿github)-[~]
 └─$ echo "Always learning. Always improving."
 ```
-```
-<p align="left"> <img src="https://raw.githubusercontent.com/blackmatrix7/blackmatrix7/main/cursor.gif" width="14px" /> </p>
+<p>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/cursor.svg" width="12" />
+</p>
+
+ontent.com/blackmatrix7/blackmatrix7/main/cursor.gif" width="14px" /> </p>
 ```
